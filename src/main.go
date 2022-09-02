@@ -1,4 +1,4 @@
-// Fibonacci sonini 4 ta thred da hisoblash
+// Fibonacci sonini 4 ta thread da hisoblash
 
 package main
 
